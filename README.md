@@ -1,4 +1,4 @@
-# Crystal Collector Game Project
+### Crystal Collector Game Project
 
 ## Summary and Goals
 
@@ -9,7 +9,7 @@ Ths project was developed for the University of Arizona Coding Bootcamp
 View Project Here:   https://kteacherbecomescoder.github.io/HW-Crystal-Game/
 
 
-## Technologies Used:
+# Technologies Used:
 HTML
 
 CSS
