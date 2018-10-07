@@ -10,15 +10,7 @@ View Project Here:   https://kteacherbecomescoder.github.io/HW-Crystal-Game/
 
 
 ### Technologies Used:
-HTML
-
-CSS
-
-JavaScript
-
-Bootstrap
-
-jQuery
+HTML, CSS, JavaScript, Bootstrap, jQuery
 
 
 
